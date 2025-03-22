@@ -23,7 +23,8 @@ This boilerplate is currently based on:
 
 - **WebdriverIO:** `9.x`
 - **Appium:** `2.x`
-- **Chromedriver Service:** `8.x`
+- **Chromedriver**
+- **Mocha**
 
 ## Installation
 
