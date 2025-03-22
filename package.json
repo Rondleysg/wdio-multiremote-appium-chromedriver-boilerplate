@@ -1,14 +1,15 @@
 {
-  "name": "appium-chromedriver-multiremote-wdio-boilerplate",
+  "name": "wdio-multiremote-appium-chromedriver-boilerplate",
   "version": "1.0.0",
   "author": "Rondley Gregório <rondleyemail@gmail.com>",
   "description": "Boilerplate project to run WebdriverIO tests on multiremote instances with appium and chromedriver.",
   "license": "MIT",
-  "homepage": "https://github.com/Rondleysg/appium-chromedriver-multiremote-wdio-boilerplate",
+  "homepage": "https://github.com/Rondleysg/wdio-multiremote-appium-chromedriver-boilerplate",
   "type": "module",
   "keywords": [
     "webdriver",
     "webdriverio",
+    "wdio",
     "mocha",
     "e2e",
     "selenium",

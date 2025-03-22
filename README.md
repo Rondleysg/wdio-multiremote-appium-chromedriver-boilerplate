@@ -31,7 +31,7 @@ This boilerplate is currently based on:
 1. Clone this project by running
 
 ```sh
-git clone https://github.com/Rondleysg/appium-chromedriver-multiremote-wdio-boilerplate.git
+git clone https://github.com/Rondleysg/wdio-multiremote-appium-chromedriver-boilerplate.git
 ```
 
 2. Install all dependencies
