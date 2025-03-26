@@ -26,6 +26,19 @@ This boilerplate is currently based on:
 - **Chromedriver**
 - **Mocha**
 
+## Features
+
+- Web + Mobile Tests - Multiremote
+- Appium
+- Chromedriver
+- Mocha
+- [Page Object](pageobjects) Model
+- Typescript
+- Native Android and iOS apps
+- Sauce Labs integration
+- ESLint
+- Tests examples for Login in <http://the-internet.herokuapp.com> and [WebdriverIO native demo app](https://github.com/webdriverio/native-demo-app)
+
 ## Installation
 
 1. Clone this project by running
